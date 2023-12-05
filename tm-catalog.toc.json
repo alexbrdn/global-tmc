@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "created": "2023-12-05T09:53:31.3873855+01:00"
+  },
+  "data": [
+    {
+      "name": "omnicorp/lightall",
+      "schema:manufacturer": {
+        "schema:name": "omnicorp"
+      },
+      "schema:mpn": "lightall",
+      "schema:author": {
+        "schema:name": "omnicorp"
+      },
+      "versions": [
+        {
+          "description": "",
+          "version": {
+            "model": "1.0.1"
+          },
+          "links": {
+            "content": "omnicorp/lightall/v1.0.1-20231205085331-c81be4ed973d.tm.json"
+          },
+          "tmID": "omnicorp/lightall/v1.0.1-20231205085331-c81be4ed973d.tm.json",
+          "digest": "c81be4ed973d",
+          "timestamp": "20231205085331",
+          "externalID": ""
+        }
+      ]
+    },
+    {
+      "name": "omnicorp/lightall-mk2",
+      "schema:manufacturer": {
+        "schema:name": "omnicorp"
+      },
+      "schema:mpn": "lightall-mk2",
+      "schema:author": {
+        "schema:name": "omnicorp"
+      },
+      "versions": [
+        {
+          "description": "",
+          "version": {
+            "model": "2.0.0"
+          },
+          "links": {
+            "content": "omnicorp/lightall-mk2/v2.0.0-20231205085331-2bcba1d82b19.tm.json"
+          },
+          "tmID": "omnicorp/lightall-mk2/v2.0.0-20231205085331-2bcba1d82b19.tm.json",
+          "digest": "2bcba1d82b19",
+          "timestamp": "20231205085331",
+          "externalID": ""
+        }
+      ]
+    },
+    {
+      "name": "omnicorp-R-D-research/omnicorp-Gmbh-Co-KG/senseall",
+      "schema:manufacturer": {
+        "schema:name": "omnicorp-Gmbh-Co-KG"
+      },
+      "schema:mpn": "senseall",
+      "schema:author": {
+        "schema:name": "omnicorp-R-D-research"
+      },
+      "versions": [
+        {
+          "description": "",
+          "version": {
+            "model": "1.0.1"
+          },
+          "links": {
+            "content": "omnicorp-R-D-research/omnicorp-Gmbh-Co-KG/senseall/v1.0.1-20231205085331-c49617d2e4fc.tm.json"
+          },
+          "tmID": "omnicorp-R-D-research/omnicorp-Gmbh-Co-KG/senseall/v1.0.1-20231205085331-c49617d2e4fc.tm.json",
+          "digest": "c49617d2e4fc",
+          "timestamp": "20231205085331",
+          "externalID": ""
+        }
+      ]
+    }
+  ]
+}
